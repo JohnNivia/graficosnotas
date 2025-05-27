@@ -1,0 +1,55 @@
+Nombre,Edad,Carrera,Nota1,Nota2,Nota3,Promedio,Desempeño
+Paula ,21,Fisica,4.0,4.5,3.0,3.8333333333333335,Bueno
+Ana,18,Ingenieria,2.0,5.0,3.0,3.3333333333333335,Regular
+Paula ,20,Fisica,2.0,5.0,3.0,3.3333333333333335,Regular
+Maria,23,Ingenieria,5.0,4.5,3.0,4.166666666666667,Bueno
+Luis,22,Matematicas,2.0,3.5,4.0,3.1666666666666665,Regular
+Ana,21,Ingenieria,5.0,5.0,5.0,5.0,Excelente
+Maria,23,Ingenieria,4.0,3.0,3.0,3.3333333333333335,Regular
+Ana,20,Fisica,2.0,3.0,3.0,2.6666666666666665,bajo
+Luis,20,Ingenieria,4.0,2.5,4.0,3.5,Bueno
+Luis,23,Fisica,4.0,3.0,2.0,3.0,Regular
+Luis,22,Ingenieria,3.5,3.0,2.0,2.8333333333333335,bajo
+ ana,20,Matematicas,2.0,2.5,3.0,2.5,bajo
+ ana,20,Fisica,5.0,3.0,2.0,3.3333333333333335,Regular
+Luis,20,Fisica,4.0,2.5,5.0,3.8333333333333335,Bueno
+Paula ,20,Ingenieria,5.0,3.0,3.0,3.6666666666666665,Bueno
+Carlos,19,Fisica,4.0,2.5,2.0,2.8333333333333335,bajo
+Luis,21,Fisica,2.0,5.0,5.0,4.0,Bueno
+Maria,22,Fisica,5.0,2.5,2.0,3.1666666666666665,Regular
+Jose,18,Fisica,4.0,3.5,2.0,3.1666666666666665,Regular
+Paula ,21,Fisica,5.0,4.5,2.0,3.8333333333333335,Bueno
+Luis,22,Ingenieria,2.0,3.0,2.0,2.3333333333333335,bajo
+Jose,20,Fisica,4.0,4.5,4.0,4.166666666666667,Bueno
+Maria,22,Matematicas,5.0,5.0,2.0,4.0,Bueno
+Luis,20,Matematicas,5.0,4.5,5.0,4.833333333333333,Excelente
+Ana,22,Ingenieria,2.0,3.0,4.0,3.0,Regular
+Luis,20,Fisica,4.0,3.0,5.0,4.0,Bueno
+ ana,20,Fisica,3.5,5.0,2.0,3.5,Bueno
+Carlos,20,Ingenieria,2.0,4.5,5.0,3.8333333333333335,Bueno
+Luis,23,Fisica,3.5,2.5,5.0,3.6666666666666665,Bueno
+Ana,21,Ingenieria,3.5,5.0,4.0,4.166666666666667,Bueno
+Carlos,19,Matematicas,4.0,3.0,3.0,3.3333333333333335,Regular
+Maria,18,Fisica,3.5,3.0,5.0,3.8333333333333335,Bueno
+Carlos,22,Matematicas,3.5,4.5,2.0,3.3333333333333335,Regular
+Luis,21,Ingenieria,2.0,3.0,5.0,3.3333333333333335,Regular
+Jose,20,Matematicas,4.0,3.0,3.0,3.3333333333333335,Regular
+Ana,19,Ingenieria,3.5,2.5,3.0,3.0,Regular
+Maria,20,Ingenieria,2.0,4.5,3.0,3.1666666666666665,Regular
+Maria,18,Ingenieria,5.0,4.5,4.0,4.5,Excelente
+Maria,23,Fisica,2.0,3.0,4.0,3.0,Regular
+Jose,18,Matematicas,5.0,3.5,4.0,4.166666666666667,Bueno
+ ana,18,Matematicas,5.0,2.5,5.0,4.166666666666667,Bueno
+Jose,20,Fisica,2.0,2.5,2.0,2.1666666666666665,bajo
+Paula ,23,Fisica,5.0,5.0,3.0,4.333333333333333,Bueno
+Jose,18,Fisica,4.0,3.5,3.0,3.5,Bueno
+Ana,21,Fisica,5.0,3.5,5.0,4.5,Excelente
+ ana,22,Ingenieria,3.5,5.0,2.0,3.5,Bueno
+Luis,20,Ingenieria,2.0,2.5,3.0,2.5,bajo
+ ana,23,Fisica,3.5,2.5,2.0,2.6666666666666665,bajo
+Luis,18,Fisica,3.5,3.5,4.0,3.6666666666666665,Bueno
+Luis,23,Fisica,3.5,4.5,3.0,3.6666666666666665,Bueno
+ ana,22,Fisica,2.0,5.0,3.0,3.3333333333333335,Regular
+Maria,21,Fisica,5.0,5.0,4.0,4.666666666666667,Excelente
+Paula ,20,Matematicas,2.0,3.0,2.0,2.3333333333333335,bajo
+Ana,18,Fisica,5.0,2.5,2.0,3.1666666666666665,Regular

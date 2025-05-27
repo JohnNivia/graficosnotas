@@ -1,0 +1,101 @@
+Nombre,Edad,Carrera,Nota1,Nota2,Nota3
+Paula ,21.0,Fisica,4.0,4.5,3.0
+Carlos,19.0,Ingeniería,,4.5,
+Ana,18.0,Ingeniería,2.0,5.0,3.0
+maria,,nan,5.0,4.5,3.0
+Paula ,,Fisica,2.0,5.0,3.0
+maria,23.0,Ingeniería,5.0,4.5,3.0
+LUIS,22.0,Matemáticas,2.0,3.5,4.0
+Paula ,20.0,Matematicas,,4.5,2.0
+Ana,21.0,Ingeniería,5.0,5.0,5.0
+maria,23.0,Ingeniería,4.0,3.0,3.0
+Carlos,20.0,Ingeniería,2.0,4.5,
+Ana,20.0,fisica,2.0,3.0,3.0
+Ana,18.0,Ingeniería,5.0,3.5,
+LUIS,20.0,Ingeniería,4.0,2.5,4.0
+nan,22.0,Matemáticas,4.0,3.5,
+maria,,Matemáticas,,4.5,5.0
+Luis,23.0,Física,4.0,3.0,2.0
+Ana,20.0,Ingeniería,4.0,3.0,
+nan,18.0,Ingeniería,4.0,5.0,
+Luis,22.0,Ingeniería,3.5,3.0,2.0
+maria,19.0,Ingeniería,,5.0,5.0
+ Ana,,Matematicas,2.0,2.5,3.0
+maria,,Matemáticas,5.0,4.5,
+nan,23.0,Ingeniería,2.0,5.0,2.0
+JOSE,,nan,,2.5,4.0
+ Ana,20.0,Física,5.0,3.0,2.0
+maria,18.0,Ingeniería,,3.0,4.0
+LUIS,,Fisica,4.0,2.5,5.0
+Paula ,,Ingeniería,5.0,3.0,3.0
+Carlos,19.0,fisica,4.0,2.5,2.0
+JOSE,19.0,Ingeniería,2.0,5.0,
+LUIS,21.0,Física,2.0,5.0,5.0
+maria,22.0,fisica,5.0,2.5,2.0
+LUIS,20.0,Ingeniería,5.0,5.0,
+Paula ,,Fisica,,5.0,2.0
+maria,,Matemáticas,,5.0,4.0
+JOSE,18.0,Física,4.0,3.5,2.0
+Paula ,21.0,Física,5.0,4.5,2.0
+Luis,22.0,Ingeniería,2.0,3.0,2.0
+Carlos,21.0,Física,,3.5,5.0
+JOSE,23.0,Física,,5.0,2.0
+Luis,22.0,Matematicas,2.0,2.5,
+maria,,Fisica,,5.0,4.0
+JOSE,,Fisica,4.0,4.5,4.0
+maria,22.0,Matematicas,5.0,5.0,2.0
+maria,,nan,2.0,2.5,5.0
+Luis,20.0,Matematicas,5.0,4.5,5.0
+Carlos,22.0,Matematicas,,5.0,
+Paula ,21.0,Fisica,,4.5,2.0
+Ana,22.0,Ingeniería,2.0,3.0,4.0
+LUIS,,Fisica,4.0,3.0,5.0
+ Ana,20.0,Física,3.5,5.0,2.0
+Carlos,20.0,Ingeniería,2.0,4.5,5.0
+Luis,23.0,fisica,3.5,2.5,5.0
+Ana,21.0,Ingeniería,3.5,5.0,4.0
+Carlos,19.0,Matemáticas,4.0,3.0,3.0
+Luis,19.0,fisica,3.5,3.0,
+nan,22.0,Ingeniería,3.5,5.0,
+nan,23.0,Física,4.0,4.5,4.0
+maria,18.0,Física,3.5,3.0,5.0
+Carlos,22.0,Matemáticas,3.5,4.5,2.0
+nan,23.0,Ingeniería,3.5,3.0,5.0
+Luis,21.0,nan,2.0,3.0,4.0
+maria,21.0,Matematicas,2.0,3.5,
+Luis,21.0,Ingeniería,2.0,3.0,5.0
+maria,21.0,nan,4.0,2.5,
+Carlos,21.0,Física,,5.0,2.0
+Ana,23.0,Fisica,3.5,5.0,
+Paula ,23.0,Ingeniería,3.5,4.5,
+JOSE,20.0,Matemáticas,4.0,3.0,3.0
+Ana,19.0,Ingeniería,3.5,2.5,3.0
+maria,,Ingeniería,2.0,4.5,3.0
+Luis,21.0,Ingeniería,,3.5,
+maria,18.0,Ingeniería,5.0,4.5,4.0
+Ana,,Física,3.5,4.5,
+maria,23.0,Física,2.0,3.0,4.0
+JOSE,18.0,Matematicas,5.0,3.5,4.0
+JOSE,18.0,Matematicas,,4.5,3.0
+ Ana,18.0,Matematicas,5.0,2.5,5.0
+JOSE,20.0,Fisica,2.0,2.5,2.0
+Paula ,23.0,fisica,5.0,5.0,3.0
+JOSE,18.0,Física,4.0,3.5,3.0
+Ana,21.0,fisica,5.0,3.5,5.0
+ Ana,22.0,Ingeniería,3.5,5.0,2.0
+Ana,18.0,fisica,3.5,4.5,
+Ana,20.0,Fisica,4.0,3.5,
+LUIS,,Ingeniería,2.0,2.5,3.0
+ Ana,23.0,fisica,3.5,2.5,2.0
+Ana,20.0,Fisica,,3.0,3.0
+LUIS,18.0,Física,3.5,3.5,4.0
+LUIS,23.0,fisica,3.5,4.5,3.0
+ Ana,22.0,Fisica,2.0,5.0,3.0
+maria,18.0,Matematicas,5.0,5.0,
+maria,20.0,Física,3.5,4.5,
+Paula ,19.0,Matematicas,4.0,3.0,
+maria,21.0,Física,5.0,5.0,4.0
+JOSE,,Matemáticas,,3.5,
+Paula ,20.0,Matemáticas,2.0,3.0,2.0
+JOSE,23.0,Matemáticas,,3.5,5.0
+Ana,18.0,Física,5.0,2.5,2.0
